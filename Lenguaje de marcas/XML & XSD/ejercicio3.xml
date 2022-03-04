@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio3.xsd">
+    <nombre>
+        Juan pardo
+    </nombre>
+    <nacimiento dia="10" mes="4" año="1982" />
+    <direccion>
+        <calle>
+            Caoba
+        </calle>
+        <numero>
+                1
+        </numero>
+        <Poblacion> 
+            Madrid
+        </Poblacion>
+        <Provinvia>
+            Madrid
+        </Provinvia>
+        <codigo_postal>
+            28005
+        </codigo_postal>
+    </direccion>
+</persona>
+<persona>
+    <nombre>
+       Maria López
+    </nombre>
+    <nacimiento dia="10" mes="4" año="1982" />
+    <direccion>
+        <calle>
+                Roncato
+        </calle>
+        <numero>
+                1
+        </numero>
+        <Poblacion> 
+           Illescas
+        </Poblacion>
+        <Provinvia>
+            Toledo
+        </Provinvia>
+        <codigo_postal>
+            28005
+        </codigo_postal>
+    </direccion>
+    <direccion>
+        <calle>
+              paseo de las esperanzas 15
+        </calle>
+        <numero>
+               1ºA
+        </numero>
+        <Poblacion> 
+          Madrid
+        </Poblacion>
+        <Provinvia>
+            Madrid
+        </Provinvia>
+        <codigo_postal>
+            28005
+        </codigo_postal>
+    </direccion>
+</mujer>
+</persona>
